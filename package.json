@@ -1,0 +1,21 @@
+{
+  "name": "accessibility_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "dependencies": {
+    "@axe-core/cli": "^4.10.1",
+    "@axe-core/react": "^4.10.1",
+    "@axe-core/watcher": "^3.18.0",
+    "axe-core": "^4.10.2",
+    "react": "^19.0.0"
+  }
+}
